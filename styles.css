@@ -33,6 +33,7 @@ h4 {
   color: #262525;
   font-family: "Fira Sans", sans-serif;
   padding: 15px;
+  font-size: -webkit-small;
 }
 
 #scroll-text {
