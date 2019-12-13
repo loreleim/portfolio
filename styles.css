@@ -3,7 +3,7 @@
 /*font-family: 'Fira Sans', sans-serif;
 font-family: 'Open Sans', sans-serif;
 Colors[]: {#FFF683, #FFC7C7, #AADDE0, #262525} yellow, pink, blue, black
-Shaders[]: {#EAD853, #DFAAB0, #99CCCC, #94959A} yellow, pink, blue grey*/ 
+Shaders[]: {#EAD853, #DFAAB0, #99CCCC, #94959A} yellow, pink, blue grey*/
 
 * {
   margin: 0;
@@ -33,7 +33,7 @@ h4 {
   color: #262525;
   font-family: "Fira Sans", sans-serif;
   padding: 15px;
-  font-size: -webkit-small;
+  font-size: 1.5rem;
 }
 
 #scroll-text {
