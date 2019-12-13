@@ -199,6 +199,17 @@ svg:hover {
   text-transform: uppercase;
 }
 
+/*Passion to Purpose*/
+
+.passion-cover {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: white;
+  background-size: cover;
+  background-position: top;
+}
+
 /*DRAG*/
 .portfolio-drag {
   width: 100%;
