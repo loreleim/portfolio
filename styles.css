@@ -191,6 +191,14 @@ svg:hover {
   height: 100vh;
 }
 
+.passionThumbnail {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(#) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
 /*Portfolio Textboxes*/
 .textbox-container {
   width: 90%;
