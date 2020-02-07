@@ -189,6 +189,7 @@ svg:hover {
   background-position: top;
 }
 
+.hdaThumbnail {
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -487,7 +488,11 @@ svg:hover {
     background-size: cover;
     background-position: top;
   }
+  .hdaThumbnail {
     background: url(images/new-hda.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
 }
 
 /* Larger than tablet */
