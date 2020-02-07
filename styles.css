@@ -120,6 +120,7 @@ svg:hover {
   width: 100%;
   text-align: center;
   margin-left: 0px;
+  line-height: 5px;
 }
 
 .home-container {
@@ -136,9 +137,7 @@ svg:hover {
   height: 80vh;
   padding: 15px;
 }
-#home-lineheight {
-  line-height: 5px;
-}
+
 #logo {
   position: fixed;
   cursor: pointer;
