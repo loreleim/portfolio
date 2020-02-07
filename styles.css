@@ -465,24 +465,6 @@ svg:hover {
 /*Media Queries*/
 /* Larger than tablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-  .hda-cover .textbox-container {
-    visibility: visible;
-  }
-  .regis-cover .textbox-container {
-    visibility: visible;
-  }
-  .drag-cover .textbox-container {
-    visibility: visible;
-  }
-  .soundmaps-cover .textbox-container {
-    visibility: visible;
-  }
-  .revup-cover .textbox-container {
-    visibility: visible;
-  }
-  .nettiquette-cover .textbox-container {
-    visibility: visible;
-  }
   .homeContainer {
     background-size: 30vw, 30vw, 30vw, 70vw;
     background-position: bottom 10vh right, top right, bottom 0px left, center;
@@ -501,17 +483,8 @@ svg:hover {
 
 /* Larger than tablet */
 @media (min-width: 750px) {
-  .about-container ul {
-    text-align: left;
-  }
-  .about-container li {
-    width: fit-content;
-  }
   li {
     width: 20%;
-  }
-  #about-lineheight .textbox-container {
-    margin-top: 30vh;
   }
   .heroText {
     font-size: 2rem;
