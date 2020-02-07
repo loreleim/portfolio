@@ -204,6 +204,8 @@ svg:hover {
 }
 
 .detailsButton {
+  height: 2rem;
+  width: 10rem;
 }
 .detailsButton h5 {
 }
