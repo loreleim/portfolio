@@ -180,8 +180,13 @@ svg:hover {
   height: 100%;
 }
 
+.equityThumbnail {
   width: 100%;
+  height: 100%;
+  overflow: hidden;
   background: url(./images/da-bus-opacity.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
 }
 
   width: 100%;
