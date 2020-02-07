@@ -68,10 +68,10 @@ li:hover {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #262525;
 }
-a:hover {
-  color: #aadde0;
+
+a:visited {
+  color: #242635;
 }
 
 /*SVG Handler*/
