@@ -220,6 +220,13 @@ svg:hover {
   margin-top: 40vh;
 }
 
+.detailsText {
+  width: 30%;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  margin-top: 1rem;
+}
+
 .detailsButton {
   height: 2rem;
   width: 10rem;
