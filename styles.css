@@ -199,6 +199,14 @@ svg:hover {
   background-size: cover;
   background-position: top;
 }
+
+.titleContainer {
+  font-size: 1rem;
+  margin-left: 2rem;
+  line-height: 1.25rem;
+  margin-top: 40vh;
+}
+
 /*Portfolio Textboxes*/
 .textbox-container {
   width: 90%;
