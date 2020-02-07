@@ -209,6 +209,7 @@ svg:hover {
 }
 .detailsButton:hover {
   transition: 0.5s ease-in-out;
+  letter-spacing: 2px;
 }
 
 /*Portfolio Textboxes*/
