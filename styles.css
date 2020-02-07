@@ -140,6 +140,7 @@ svg:hover {
   background-size: 150px, 20vh, 20vh, 65vh;
 }
 .homeBackground {
+  padding: 1rem;
 }
 
 #logo {
