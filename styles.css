@@ -207,6 +207,7 @@ svg:hover {
   height: 2rem;
   width: 10rem;
   border-radius: 2rem;
+  border: #242635 solid 2px;
 }
 .detailsButton h5 {
 }
