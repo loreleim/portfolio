@@ -126,6 +126,10 @@ svg:hover {
   line-height: 5px;
 }
 
+.heroText p {
+  text-transform: uppercase;
+}
+
 .home-container {
   width: 100%;
   height: 100vh;
