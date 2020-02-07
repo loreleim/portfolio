@@ -327,54 +327,24 @@ svg:hover {
 }
 
 /*About*/
-.about-container {
-  width: 100%;
-  height: 100vh;
+
+.aboutContainer {
+  font-size: 1rem;
+  margin: 2rem;
+  line-height: 1.25rem;
+  margin-top: 30vh;
 }
-.about-container-text {
-  margin-top: 40vh;
 }
-.about-container h2 {
-  padding-bottom: 0px;
-}
-.about-container p {
-  padding-left: 15px;
-  padding-top: 0px;
-  text-align: left;
-  color: #262525;
-  font-size: 20px;
-}
-.about-container ul {
-  height: 15%;
-}
-.about-container li {
-  color: none;
-  width: 32%;
-  height: 100%;
-  cursor: pointer;
-  display: inline-block;
-}
-.about-container li:hover {
-  transition: 0.3s ease;
-  background-color: transparent;
-}
-.about-container svg {
   fill: #262525;
   width: 70px;
   height: 70px;
   margin-top: 5px;
   position: relative;
 }
-.about-container svg:hover {
   fill: black;
   transition: 0.3 ease;
 }
-.about-mini-container {
-  display: block;
 }
-#about-lineheight .textbox-container {
-  line-height: normal;
-  margin-top: 0px;
 }
 
 .overlay {
