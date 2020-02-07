@@ -98,6 +98,7 @@ svg:hover {
   color: #262525;
   font-size: 1.25rem;
   line-height: 5px;
+  line-height: 1.5rem;
 }
 
 .heroText p {
@@ -557,6 +558,7 @@ svg:hover {
   }
   .heroText {
     font-size: 2rem;
+    line-height: 2rem;
   }
 }
 
@@ -590,5 +592,6 @@ svg:hover {
   .heroText {
     margin-top: 40vh;
     font-size: 3.5rem;
+    line-height: 3.5rem;
   }
 }
