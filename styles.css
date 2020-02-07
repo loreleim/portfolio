@@ -487,6 +487,7 @@ svg:hover {
     background-size: cover;
     background-position: top;
   }
+    background: url(images/new-hda.jpg) no-repeat;
 }
 
 /* Larger than tablet */
