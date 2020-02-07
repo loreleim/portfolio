@@ -185,6 +185,12 @@ svg:hover {
   background: url(images/el-pinkwave1.svg) no-repeat;
 }
 
+/*New Portfolio 2020*/
+.projectContainer {
+  width: 100%;
+  height: 100vh;
+}
+
 /*Portfolio Textboxes*/
 .textbox-container {
   width: 90%;
