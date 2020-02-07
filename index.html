@@ -9,18 +9,8 @@
       content="Aloha! Lorelei is an Interaction Designer from Hawai'i. Currently working out of Chicago with Convergence Design Lab."
     />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--JQuery Linking-->
-    <script
-      src="http://code.jquery.com/jquery-1.12.4.min.js"
-      integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-      crossorigin="anonymous"
-    ></script>
-    <!--Scrollify Library-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.19/jquery.scrollify.js"></script>
     <!--External Linking-->
     <link rel="stylesheet" href="styles.css" />
-    <script src="scrollTo.js"></script>
-    <script src="snapscroll.js" type="text/javascript"></script>
     <!--Icons-->
     <link rel="icon" href="images/logo.png" />
     <!--Apple Optmization 180x180-->
@@ -31,7 +21,6 @@
     <nav>
       <ul>
         <li id="nav-logo">
-          <a onclick="mcScroller(document.getElementById('home'))">
             <svg>
               <path
                 xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +38,6 @@
           </a>
         </li>
         <li>
-          <a onclick="mcScroller(document.getElementById('portfolio'))">
             <svg>
               <path
                 xmlns="http://www.w3.org/2000/svg"
@@ -86,7 +74,6 @@
   <body>
     <!--Home-->
     <div class="section homeContainer" id="home">
-      <a onclick="mcScroller(document.getElementById('home'))" id="logo"></a>
       <div class="homeBackground">
         <div class="heroText">
           <h2>Lorelei Miyamura</h2>
@@ -180,11 +167,5 @@
         </ul>
       </nav>
     </div>
-    <script>
-      $("#toggle").click(function() {
-        $(this).toggleClass("active");
-        $("#overlay").toggleClass("open");
-      });
-    </script>
   </body>
 </html>
