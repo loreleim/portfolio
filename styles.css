@@ -334,17 +334,38 @@ svg:hover {
   line-height: 1.25rem;
   margin-top: 30vh;
 }
+
+.aboutText {
+  margin-top: 2rem;
 }
+
+.aboutText svg {
   fill: #262525;
   width: 70px;
   height: 70px;
   margin-top: 5px;
   position: relative;
+  text-align: left;
+  cursor: pointer;
 }
+
+.aboutText svg:hover {
   fill: black;
   transition: 0.3 ease;
 }
+
+.aboutText ul {
+  width: fit-content;
+  padding: 0;
 }
+
+.aboutText li {
+  color: none;
+}
+
+.aboutText li:hover {
+  transition: 0.3s ease;
+  background-color: transparent;
 }
 
 .overlay {
