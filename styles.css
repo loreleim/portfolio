@@ -212,8 +212,11 @@ svg:hover {
   margin-top: 1rem;
   cursor: pointer;
 }
+
 .detailsButton h5 {
+  margin-top: 0.2rem;
 }
+
 .detailsButton:hover {
   transition: 0.5s ease-in-out;
   letter-spacing: 2px;
