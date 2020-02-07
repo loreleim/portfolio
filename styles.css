@@ -68,6 +68,7 @@ li:hover {
 a {
   text-decoration: none;
   cursor: pointer;
+  color: inherit;
 }
 
 a:visited {
@@ -569,9 +570,6 @@ svg:hover {
 
 /* Larger than tablet */
 @media (min-width: 750px) {
-  .textbox-container {
-    font-size: x-large;
-  }
   .about-container ul {
     text-align: left;
   }
@@ -583,6 +581,10 @@ svg:hover {
   }
   #about-lineheight .textbox-container {
     margin-top: 30vh;
+  }
+  .heroText {
+    font-size: 2rem;
+    line-height: 15px;
   }
 }
 
@@ -599,17 +601,13 @@ svg:hover {
   #nav-logo {
     display: none;
   }
-  #hero-text {
-    font-size: -webkit-xxx-large;
-    line-height: 20px;
-  }
   .textbox-container {
     font-size: xx-large;
   }
   .overlay nav {
     width: 100%;
   }
-  .home-container {
+  .homeContainer {
     background-size: 30vw, 30vw, 30vw, 70vw;
     background-position: bottom 10vh right, top right, bottom 0px left, center;
   }
@@ -617,4 +615,9 @@ svg:hover {
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
+  .heroText {
+    margin-top: 40vh;
+    font-size: 3.5rem;
+    line-height: 40px;
+  }
 }
