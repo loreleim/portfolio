@@ -17,16 +17,14 @@ p {
   font-family: "Open Sans", sans-serif;
   padding: 15px;
 }
+
 h2 {
   font-family: "Fira Sans", sans-serif;
-  padding: 15px;
 }
+
 h3 {
-  color: #262525;
-  font-family: "Fira Sans", sans-serif;
-  padding: 15px;
+  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  font-size: -webkit-xxx-large;
 }
 
 h4 {
@@ -39,6 +37,9 @@ h4 {
 #scroll-text {
   font-size: 1rem;
   color: #cecece;
+h5 {
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
 }
 
 /*Bottom Menu*/
