@@ -207,6 +207,13 @@ svg:hover {
   margin-top: 40vh;
 }
 
+.detailsButton {
+}
+.detailsButton h5 {
+}
+.detailsButton:hover {
+}
+
 /*Portfolio Textboxes*/
 .textbox-container {
   width: 90%;
