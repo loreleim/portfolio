@@ -474,6 +474,11 @@ svg:hover {
     background-size: cover;
     background-position: top;
   }
+  .equityThumbnail {
+    background: url(./images/da-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
   .hdaThumbnail {
     background: url(images/hda.jpg) no-repeat;
     background-size: cover;
