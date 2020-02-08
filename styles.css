@@ -545,3 +545,12 @@ svg:hover {
     line-height: 3.5rem;
   }
 }
+
+/* For Screens & Macs */
+@media (min-width: 2000px) {
+  .heroText {
+    margin-top: 40vh;
+    font-size: 7rem;
+    line-height: 7rem;
+  }
+}
