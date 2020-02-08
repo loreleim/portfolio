@@ -199,7 +199,7 @@ svg:hover {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: url(./images/da-bus-opacity.jpg) no-repeat;
+  background: url(./images/hda-opacity.jpg) no-repeat;
   background-size: cover;
   background-position: top;
 }
@@ -475,7 +475,7 @@ svg:hover {
     background-position: top;
   }
   .hdaThumbnail {
-    background: url(images/new-hda.jpg) no-repeat;
+    background: url(images/hda.jpg) no-repeat;
     background-size: cover;
     background-position: top;
   }
