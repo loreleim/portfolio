@@ -378,6 +378,7 @@ svg:hover {
   color: #262525;
   text-transform: uppercase;
   display: inline;
+  cursor: pointer;
 }
 
 #itemOne,
