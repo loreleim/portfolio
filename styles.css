@@ -368,6 +368,38 @@ svg:hover {
   background-color: transparent;
 }
 
+.likeContainer {
+  margin-top: 1rem;
+}
+
+.likeText {
+  font-family: "Fira Sans", sans-serif;
+  color: #262525;
+  text-transform: uppercase;
+  display: inline;
+}
+
+#itemOne,
+#itemTwo,
+#itemThree {
+  color: white;
+  text-shadow: 1.25px 1.25px 1.25px #262525, 0 -1.25px 1.25px #262525,
+    1.25px 1.25px 1.25px #262525, -1.25px 0 0 #262525, 1.25px 1.25px 0 #262525,
+    1.25px 0 0 #262525, 0 -1.25px 0 #262525;
+}
+
+#itemOne:hover {
+  background-color: #aadde0;
+}
+
+#itemTwo:hover {
+  background-color: #f6abb5;
+}
+
+#itemThree:hover {
+  background-color: #fcf06c;
+}
+
 .overlay {
   position: fixed;
   background: #262525;
