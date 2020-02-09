@@ -336,16 +336,11 @@ svg:hover {
 }
 
 .aboutText {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .aboutText svg {
   fill: #262525;
-  width: 70px;
-  height: 70px;
-  margin-top: 5px;
-  position: relative;
-  text-align: left;
   cursor: pointer;
 }
 
@@ -361,12 +356,19 @@ svg:hover {
 }
 
 .aboutText li {
-  color: none;
+  width: fit-content;
+  color: #262525;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-right: 2rem;
+  border-radius: 1rem;
 }
 
 .aboutText li:hover {
   transition: 0.3s ease;
-  background-color: transparent;
+  background-color: #262525;
+  color: white;
 }
 
 .likeContainer {
