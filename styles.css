@@ -357,6 +357,7 @@ svg:hover {
 .aboutText ul {
   width: fit-content;
   padding: 0;
+  text-align: left;
 }
 
 .aboutText li {
