@@ -347,6 +347,7 @@ svg:hover {
 .aboutText svg:hover {
   fill: black;
   transition: 0.3 ease;
+  background: none;
 }
 
 .aboutText ul {
@@ -367,8 +368,8 @@ svg:hover {
 
 .aboutText li:hover {
   transition: 0.3s ease;
-  background-color: #262525;
-  color: white;
+  background-color: transparent;
+  color: black;
 }
 
 .likeContainer {
