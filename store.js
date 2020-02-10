@@ -20,11 +20,20 @@ var likeList = [
 ];
 
 itemOne.innerHTML = likeList[0] + ",";
-itemTwo.innerHTML = likeList[1] + ",";
-itemThree.innerHTML = "& " + likeList[2] + "!";
+itemTwo.innerHTML = likeList[1];
+itemThree.innerHTML = " & " + likeList[2] + "!";
 
-/*function randomItem() {
-  var randomIndex = Math.floor(Math.random() * likeList.length);
-  var randomLike = likeList[randomIndex];
-  $itemOne.innerHTML = randomLike;
-}*/
+function randomItem() {
+  document.getElementById("itemOne").innerHTML =
+    likeList[Math.floor(Math.random() * likeList.length)] + ",";
+}
+
+function randomTwo() {
+  document.getElementById("itemTwo").innerHTML =
+    likeList[Math.floor(Math.random() * likeList.length)];
+}
+
+function randomThree() {
+  document.getElementById("itemThree").innerHTML =
+    " & " + likeList[Math.floor(Math.random() * likeList.length)] + "!";
+}
