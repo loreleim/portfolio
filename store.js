@@ -8,7 +8,15 @@ var likeList = [
   "azuki beans",
   "pogs",
   "pocket notebooks",
-  "menpachi"
+  "menpachi",
+  "monstera variegata",
+  "mini meat jun",
+  "hinode rice",
+  "a good pair of pants",
+  "chicago pigeons",
+  "@wabashartdrop",
+  "simple green",
+  "baby dill pickles"
 ];
 
 itemOne.innerHTML = likeList[0] + ",";
