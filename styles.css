@@ -204,11 +204,11 @@ svg:hover {
   background-position: top;
 }
 
-.arThumbnail {
+.nettiquetteThumbnail {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: url(images/nettiquette-homepage.jpg) no-repeat;
+  background: url(images/nettiquette-opacity.jpg) no-repeat;
   background-size: cover;
   background-position: top;
 }
@@ -524,6 +524,11 @@ svg:hover {
   }
   .hdaThumbnail {
     background: url(images/hda.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  .nettiquetteThumbnail {
+    background: url(images/nettiquette-homepage.jpg) no-repeat;
     background-size: cover;
     background-position: top;
   }
