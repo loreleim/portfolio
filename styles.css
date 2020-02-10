@@ -229,8 +229,15 @@ svg:hover {
   margin-top: 40vh;
 }
 
-.detailsText {
+.detailsIntro {
   width: 30%;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  margin-top: 1rem;
+}
+
+.detailsText {
+  width: 100%;
   font-size: 1rem;
   line-height: 1.25rem;
   margin-top: 1rem;
