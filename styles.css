@@ -428,52 +428,21 @@ svg:hover {
   background-color: #fcf06c;
 }
 
-/*Resume*/
+.aboutContainer p {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
 
 .resumeContainer {
   font-size: 1rem;
   margin: 2rem;
   line-height: 1.25rem;
   margin-top: 10vh;
-  border-left: 0.1rem solid black;
-  padding-left: 2rem;
 }
 
 .resumeContainer p {
-  font-size: 0.75rem;
-  line-height: 0.75rem;
-}
-
-.resumeLeft {
-  display: inline;
-  width: 100%;
-  height: 100vh;
-}
-
-.resumeNode {
-  margin-top: 1rem;
-  line-height: 0.75rem;
-}
-
-#employmentTime {
-  display: inline;
-  text-transform: uppercase;
-  text-align: right;
-}
-
-#employer {
-  text-transform: uppercase;
-  display: inline;
-}
-
-.resumeNode h3 {
   font-size: 1rem;
-  font-family: "Fira Sans", sans-serif;
-  text-transform: uppercase;
-}
-
-.resumeNode p {
-  margin-top: 0.25rem;
+  margin-top: 1rem;
 }
 
 .overlay {
@@ -654,6 +623,11 @@ svg:hover {
     margin-top: -0.1rem;
   }
   .aboutContainer {
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-left: 10rem;
+  }
+  .resumeContainer {
     font-size: 2rem;
     line-height: 3rem;
     margin-left: 10rem;
