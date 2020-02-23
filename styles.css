@@ -587,6 +587,26 @@ svg:hover {
   background-color: transparent;
 }
 
+.tooltip {
+  display: none;
+}
+
+.tooltip:hover {
+  display: block;
+}
+
+.tooltip {
+  position: absolute;
+  border-radius: 1rem;
+  background: red;
+  left: -1rem;
+  padding: 0.25rem;
+  pointer-events: none;
+  width: 100px;
+  height: 500px;
+  transition: 0.7s ease-out;
+}
+
 @keyframes fadeInRight {
   0% {
     opacity: 0;
