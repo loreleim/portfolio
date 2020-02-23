@@ -222,6 +222,24 @@ svg:hover {
   background-position: top;
 }
 
+.nettiquetteTwo {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(images/nett-2.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.nettiquetteFinal {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(images/vuforia.gif) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .titleContainer {
   font-size: 1rem;
   margin-left: 2rem;
