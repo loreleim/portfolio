@@ -237,6 +237,10 @@ svg:hover {
   animation: textFadeRight 1s;
 }
 
+.detailsIntro p {
+  margin-bottom: 1rem;
+}
+
 .detailsText {
   width: 100%;
   font-size: 1rem;
