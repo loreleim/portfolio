@@ -204,6 +204,42 @@ svg:hover {
   background-position: top;
 }
 
+.hdaTwo {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/hda-2.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.hdaThree {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/hda-3.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.hdaFour {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/hda-4.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.hdaFinal {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/hda-iconography.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .nettiquetteThumbnail {
   width: 100%;
   height: 100%;
