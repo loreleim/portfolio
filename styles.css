@@ -186,6 +186,15 @@ svg:hover {
   background-position: top;
 }
 
+.passionFacilitator {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/p2p-facilitator.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .equityThumbnail {
   width: 100%;
   height: 100%;
