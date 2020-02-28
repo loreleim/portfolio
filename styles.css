@@ -177,6 +177,10 @@ svg:hover {
   height: 100vh;
 }
 
+#downloadText {
+  text-decoration: underline;
+}
+
 .passionThumbnail {
   width: 100%;
   height: 100%;
@@ -191,6 +195,42 @@ svg:hover {
   height: 100%;
   overflow: hidden;
   background: url(./images/da-bus-opacity.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusOld {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-oldsite.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusOld1 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-oldsitemobile.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusOld2 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-oldsitemobile2.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusOld3 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-oldsitemobile3.jpg) no-repeat;
   background-size: cover;
   background-position: top;
 }
