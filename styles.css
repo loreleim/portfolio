@@ -199,7 +199,7 @@ svg:hover {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: url(./images/equity-7.jpg) no-repeat;
+  background: url(./images/equity-3.jpg) no-repeat;
   background-size: cover;
   background-position: top;
 }
@@ -209,6 +209,78 @@ svg:hover {
   height: 100%;
   overflow: hidden;
   background: url(./images/equity-6.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityTwo {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-5.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityThree {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-1.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityFour {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-7.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityFive {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-4.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equitySix {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-5.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equitySeven {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-8.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityEight {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-9.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.equityNine {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/equity-10.jpg) no-repeat;
   background-size: cover;
   background-position: top;
 }
@@ -660,7 +732,7 @@ svg:hover {
     background-position: top;
   }
   .equityThumbnail {
-    background: url(./images/da-bus.jpg) no-repeat;
+    background: url(./images/equity-3.jpg) no-repeat;
     background-size: cover;
     background-position: top;
   }
