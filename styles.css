@@ -186,6 +186,69 @@ svg:hover {
   background-position: top;
 }
 
+.dabusThumbnail {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/da-bus-opacity.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusOne {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-mobiles.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusTwo {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-about.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusThree {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-card.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusFour {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-wireframes.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusFive {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-styling.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.dabusFinal {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(./images/dabus-all.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .passionFacilitator {
   width: 100%;
   height: 100%;
@@ -727,6 +790,11 @@ svg:hover {
     background-position: bottom 10vh right, top right, bottom 0px left, center;
   }
   .passionThumbnail {
+    background: url(./images/da-bus.jpg) no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  .dabusThumbnail {
     background: url(./images/da-bus.jpg) no-repeat;
     background-size: cover;
     background-position: top;
