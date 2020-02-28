@@ -420,6 +420,24 @@ svg:hover {
   background-position: top;
 }
 
+.nettiquetteThree {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(images/nett-3.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.nettiquetteFour {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url(images/nett-4.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
 .nettiquetteFinal {
   width: 100%;
   height: 100%;
